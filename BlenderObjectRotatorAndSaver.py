@@ -8,6 +8,12 @@
 # Tested with Blender v2.78 and Unity 5.4.3f1 on MacOS Sierra
 #
 # 2016-11-30
+#
+# Be careful, script changing object on your scene! Do reserve copy before use.
+#
+# After successful finish script, you will see last created file with rotated object
+#
+# Script comes without warranty, use at your own risk!
 
 import bpy
 import mathutils
