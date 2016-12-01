@@ -12,3 +12,6 @@ Every rotation, script save in different blender file, and before is automatical
 Notice:
 - Script rotate objects what will be correct open in Unity;
 - Script have sense use if your scene have only one mesh object;
+
+----------
+Tested with Blender v2.78 and Unity 5.4.3f1 on MacOS Sierra
