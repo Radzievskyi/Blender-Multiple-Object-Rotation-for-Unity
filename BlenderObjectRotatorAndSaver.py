@@ -9,7 +9,7 @@
 #
 # 2016-11-30
 #
-# Be careful, script changing object on your scene! Do reserve copy before use.
+# Be careful, this script changing object on your scene! Create reserve copy before use.
 #
 # After successful finish script, you will see last created file with rotated object
 #
